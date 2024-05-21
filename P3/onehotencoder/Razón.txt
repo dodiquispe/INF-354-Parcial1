@@ -1,0 +1,2 @@
+ejercicio 1 -  LabelEncoder este algoritmo se usa para covertir categoricos en valores numerico en este caso lo use en la columna de gender donde cambio masculino en 1 y femenino por 0
+ejercicio 2 - OneHotEncodercon este algoritmo converti los valores categorico de Sleep Disorder para que trate cada categoria independiente 

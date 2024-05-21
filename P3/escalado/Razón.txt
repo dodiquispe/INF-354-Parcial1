@@ -1,0 +1,5 @@
+ejercicio 3 - Standard Scaling:
+los valores transformados de las características 'Age', 'Heart Rate' y 'Daily Steps' en la transformacion reflejan los valores negativos de cada columna que estan debajo de la media mientras que los valores positivos indican que la  está por encima de la media.
+ejecicio 4 - MinMax Scaling con este algoritmo se mantenio la relaciones proporcionales entre las caraceristica 'Age', 'Heart Rate' y 'Daily Steps'
+ejecicio 5 - Robust Scaling
+con la ayuda de este algoritmo que las caracteristicas mantengan la integridad de la informacion

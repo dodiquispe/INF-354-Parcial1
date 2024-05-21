@@ -1,0 +1,5 @@
+No Supervisado:
+-Discretize:
+La discretización no supervisada, convierte las características numéricas en intervalos discretos sin usar el valor de la variable objetivo en el caso de mi data set ayuda a agrupar los valores similares en intervalos discretos.
+-Normalice:
+El normalize ayuda en mi dataset ya que mis distintos valores estarán en la misma escala para poder ser comparados y evaluar su impacto.

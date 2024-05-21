@@ -1,0 +1,6 @@
+Supervisado:
+-Discretize:
+La discretización supervisada, convierte las características numéricas en intervalos discretos en el caso de mi data set ayuda a encontrar patrones como en el intervalo de  7.95 a 8.25 las personas con una duración .de sueño cercana a 8 horas tiene una alta probabilidad de experimentar un trastorno de sueño.
+
+-NominalToBinary:
+como su nombre lo indica convierte las variables categóricas nominales  en variables binarias, en este caso no ayuda ya que no ayuda a simplificar sino al contrario ya que la variable ocupación convierte en binario una para cada una y es más difícil en la interpretación.
